@@ -21,3 +21,5 @@ Sabiendo que está instalado node.js, se dió inicio a la app con el siguiente c
 y se comenzó con cd reactv y npm start
 
 Se creó una rama feature, para desarrollo, reservando main para producción
+
+git checkout -b feature origin/feature
